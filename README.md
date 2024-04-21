@@ -1,9 +1,9 @@
-<h1 align="center"> ɢɪғᴛᴇᴅ ᴍᴅ & ⏤͟͟͞͞★𝐒𝚰𝐋𝛁𝚫 𝚻𝚵𝐂𝚮💋²⁰²⁴࿐ Version 2.5.0 </h1> 
+<h1 align="center"> BOT SILVA ¹࿐ Version 2.5.0 </h1> 
  <br>
 
 
 
-<p align="center"> Introducing ⏤͟͟͞͞★𝐒𝚰𝐋𝛁𝚫 𝚻𝚵𝐂𝚮💋²⁰²⁴࿐ & ɢɪғᴛᴇᴅ ʙᴏᴛ v2.5.0, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
+<p align="center"> Introducing ★BOT SILVA ¹࿐࿐ & ɢɪғᴛᴇᴅ ʙᴏᴛ v2.5.0, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
 
 <p align="center">
   <a href="https://github.com/Sylivanu/Gifted-Md2">
